@@ -68,9 +68,9 @@
     ]
   },
   "bot": {
-    "token": "--TOKEN--",
-    "channelID": "--CHANNEL ID--",
-    "guildID": "--GUILD ID--",
+    "token": "OTkxNjE5OTg2MzE5NzQ1MDQ4.G7ZLNu.FXiE_5WbSjr5FMZl6f8tu1PULj0-_NN0Sdm5co",
+    "channelID": "992644747552358421",
+    "guildID": "985442602201530400",
     "WPM": 90,
     "dankID": "270904126974590976",
     "lastWorked": 1641718210.9002297
