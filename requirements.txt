@@ -1,1 +1,4 @@
+discum
+discord.py
+colorama
 
